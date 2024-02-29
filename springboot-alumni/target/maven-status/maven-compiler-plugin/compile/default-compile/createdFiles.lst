@@ -1,0 +1,12 @@
+com\schoolFllow\Service\IActivityService.class
+com\schoolFllow\Controller\AlumniController.class
+com\schoolFllow\Service\IAlumniService.class
+com\schoolFllow\Mapper\AlumniMapper.class
+com\schoolFllow\Service\ActivityService.class
+com\schoolFllow\Entity\Alumni.class
+com\schoolFllow\schoolApplication.class
+com\schoolFllow\Service\AlumniService.class
+com\schoolFllow\Entity\Activity.class
+com\schoolFllow\Mapper\ActivityMapper.class
+com\schoolFllow\Controller\ActivityController.class
+com\schoolFllow\Entity\Item.class
